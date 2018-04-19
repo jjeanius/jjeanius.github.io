@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My CLI Data Gem Project"
-date:       2018-04-18 01:32:24 +0000
+date:       2018-04-17 21:32:24 -0400
 permalink:  my_cli_data_gem_project
 ---
 
@@ -38,7 +38,7 @@ You also might need to check if the permission is set up correctly by listing al
  
 To add permission to your file use the “chmod” command below:
  
-#chmod +x <your file name>
+#chmod +x <chefilicious_cli_gem>
 
  
 4.  File Requirements
