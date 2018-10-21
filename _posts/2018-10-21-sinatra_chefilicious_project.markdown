@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Chefilicious Project"
-date:       2018-10-21 18:10:33 +0000
+date:       2018-10-21 14:10:34 -0400
 permalink:  sinatra_chefilicious_project
 ---
 
